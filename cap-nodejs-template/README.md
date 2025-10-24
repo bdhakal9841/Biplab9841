@@ -11,4 +11,4 @@ Usage:
 2. Install project deps: npm install
 3. Run locally: npm start
 
-This template is minimal. Extend with: authentication (XSUAA), HANA bindings, deployment descriptors (mta.yaml), CI/CD pipelines.
+This template is minimal. Extend with: authentication (XSUAA), HANA bindings, deployment descriptors (mta.yaml), CI/CD pipeline.
